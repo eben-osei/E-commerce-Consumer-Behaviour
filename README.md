@@ -16,7 +16,7 @@ e-commerce, finance, supply chain, and automotive.
 E-Commerce · Fintech · Healthcare · Logistics · Automotive
 
 ### Featured project
-**[Consumer Behaviour Analysis — Clothing Retail](https://github.com/YOUR-USERNAME/ecommerce-consumer-behaviour)**
+**[Consumer Behaviour Analysis — Clothing Retail](https://github.com/eben-osei/ecommerce-consumer-behaviour)**
 What separates online shoppers from in-store shoppers, and how a retailer can grow
 online sales. Built with SQL + Tableau.
 → [View the live dashboard](https://public.tableau.com/app/profile/ebenezer.osei.asibey.antwi2295/viz/ConsumerBehaviour-ClothingRetail/CustomerInsights)
