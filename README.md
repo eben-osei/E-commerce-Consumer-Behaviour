@@ -27,4 +27,4 @@ online sales. Built with SQL + Tableau.
 📧 ebendataworks@gmail.com
 
 ---
-*Currently building: Finance KPI dashboard · Supply chain analytics*
+*Currently building: Finance KPI dashboard and Supply chain analytics*
