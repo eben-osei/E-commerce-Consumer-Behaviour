@@ -1,0 +1,10 @@
+city_tier,shopping_preference,customers,pct_within_tier,avg_online_spend,avg_monthly_orders
+"Tier 1",Store,3444,86.5,74508,24.2
+"Tier 1",Online,400,10.0,74917,28.5
+"Tier 1",Hybrid,138,3.5,73675,25.2
+"Tier 2",Store,3371,87.4,74401,24.0
+"Tier 2",Online,378,9.8,78970,28.0
+"Tier 2",Hybrid,109,2.8,76494,25.9
+"Tier 3",Store,3429,86.8,74137,24.5
+"Tier 3",Online,398,10.1,75535,28.4
+"Tier 3",Hybrid,122,3.1,73061,25.1
